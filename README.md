@@ -1,7 +1,8 @@
 # ev3MachineLearning
 
 En este proyecto se aplicaron distintos modelos de regresión para predecir la variable RoundKills a partir del dataset Anexo.csv. El objetivo fue evaluar el rendimiento de cada modelo utilizando métricas como RMSE y R².
-Se incluyó el análisis comparativo solicitado.
+
+* En el archivo "ConclusionesFase4yDesarrolloFases5y6.ipynb" se incluyó el análisis comparativo solicitado.*
 
 Modelos evaluados:
 Regresión Lineal Simple
