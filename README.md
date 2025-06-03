@@ -5,19 +5,19 @@ En este proyecto se aplicaron distintos modelos de regresión para predecir la v
 **En el archivo "ConclusionesFase4yDesarrolloFases5y6.ipynb" se incluyó el análisis comparativo solicitado.**
 
 Modelos evaluados:
-Regresión Lineal Simple
+* Regresión Lineal Simple
 
-Regresión Lineal Múltiple
+* Regresión Lineal Múltiple
 
-Árbol de Decisión
+* Árbol de Decisión
 
-Random Forest
+* Random Forest
 
-Support Vector Machine (SVR)
+* Support Vector Machine (SVR)
 
-Resultados destacados:
-El modelo Random Forest obtuvo el mejor desempeño con un RMSE de 0.5661 y un R² de 0.5945, siendo el más preciso y explicativo del conjunto.
+**Resultados destacados:**
+* El modelo Random Forest obtuvo el mejor desempeño con un RMSE de 0.5661 y un R² de 0.5945, siendo el más preciso y explicativo del conjunto.
 
-El modelo SVR fue el de menor rendimiento, con un RMSE más alto y un R² más bajo, indicando una menor capacidad de generalización.
+* El modelo SVR fue el de menor rendimiento, con un RMSE más alto y un R² más bajo, indicando una menor capacidad de generalización.
 
 Este análisis permitió comparar diferentes enfoques de regresión y concluir cuál se adapta mejor a los patrones presentes en el dataset.
